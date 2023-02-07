@@ -1,0 +1,45 @@
+.input{
+    border: 1px solid black !important;
+    border-radius: 5px;  
+    font-weight: 700;
+    /* padding: 5px !important; */
+
+}
+.rate-input {
+    border: 1px solid black !important;
+    border-radius: 5px; 
+    font-size: 15px;
+}
+.btn{
+    margin-top: auto;
+}
+.result-label {
+    color: black !important;
+    font-weight: 700;
+}
+.result-input {
+    font-size: 20px !important;
+    border: 1px solid black !important;
+    border-radius: 5px;  
+    font-weight: 700;
+    width: 100%;
+}
+
+ion-card{
+    /* background: rgb(238,174,202); */
+    color: black;
+background: linear-gradient(97deg, #f2f7fd 0%, #f0f4fd 90%);
+margin-left: 1px;
+margin-right: 1px;
+}
+ion-card-header{
+    padding-top: 5px;
+    padding-bottom: 0px;
+    padding-left: 1px;
+}
+ion-card-content{
+    padding: 0;
+}
+ion-card-header+.card-content-md{
+    padding: 0;
+}

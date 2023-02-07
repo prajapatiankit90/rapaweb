@@ -1,0 +1,54 @@
+/* .card-contact{
+    position: absolute;
+    width: 95%;
+    top: 30%
+} */
+img{
+    width: 25%;
+    position: absolute;
+    top: 17%;
+    left: 37%;
+}
+.grid{
+    position: absolute;
+    width: 90%;
+    top: 30%;
+    left: 5%;
+}
+.button{
+    width: 90%;
+    align-items: center;
+    font-weight: 600;
+    /* margin-left: 20px; */
+}
+.btn-login{
+    margin-top: 40px !important;
+    border-radius: 10px;
+}
+.input-text{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.lbl-Color{
+    color: black !important;
+}
+.card-design{ 
+    top: 35%;
+    width: 50%;
+    left : 25%;
+}
+
+@media only screen and (max-width: 768px) {
+    .card-design{ 
+        top: 35%;
+        width: auto;
+        left: 0%;
+    }
+    img{
+        /* background: linear-gradient(135deg, rgba(30,90,122,1) 0%, rgba(51,28,74,1) 77%, rgba(51,28,74,1) 86%, rgba(51,28,74,1) 100%) !important; */
+        width: 50%;
+        position: absolute;
+        top: 17%;
+        left: 25%;
+    }
+}
