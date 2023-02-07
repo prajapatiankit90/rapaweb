@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rapaweb/static/css/main.79574355.css",
+    "main.js": "/rapaweb/static/js/main.98ff3f05.js",
+    "static/js/55.987e7ddc.chunk.js": "/rapaweb/static/js/55.987e7ddc.chunk.js",
+    "static/js/172.f06d15f3.chunk.js": "/rapaweb/static/js/172.f06d15f3.chunk.js",
+    "static/js/696.fa07e0a2.chunk.js": "/rapaweb/static/js/696.fa07e0a2.chunk.js",
+    "static/js/82.48142080.chunk.js": "/rapaweb/static/js/82.48142080.chunk.js",
+    "static/js/967.3ba07701.chunk.js": "/rapaweb/static/js/967.3ba07701.chunk.js",
+    "static/js/522.110600c2.chunk.js": "/rapaweb/static/js/522.110600c2.chunk.js",
+    "static/js/302.4b0e432c.chunk.js": "/rapaweb/static/js/302.4b0e432c.chunk.js",
+    "static/js/558.6cc992e0.chunk.js": "/rapaweb/static/js/558.6cc992e0.chunk.js",
+    "static/js/669.4b464c5e.chunk.js": "/rapaweb/static/js/669.4b464c5e.chunk.js",
+    "static/js/787.0c2bbb32.chunk.js": "/rapaweb/static/js/787.0c2bbb32.chunk.js",
+    "index.html": "/rapaweb/index.html",
+    "main.79574355.css.map": "/rapaweb/static/css/main.79574355.css.map",
+    "main.98ff3f05.js.map": "/rapaweb/static/js/main.98ff3f05.js.map",
+    "55.987e7ddc.chunk.js.map": "/rapaweb/static/js/55.987e7ddc.chunk.js.map",
+    "172.f06d15f3.chunk.js.map": "/rapaweb/static/js/172.f06d15f3.chunk.js.map",
+    "696.fa07e0a2.chunk.js.map": "/rapaweb/static/js/696.fa07e0a2.chunk.js.map",
+    "82.48142080.chunk.js.map": "/rapaweb/static/js/82.48142080.chunk.js.map",
+    "967.3ba07701.chunk.js.map": "/rapaweb/static/js/967.3ba07701.chunk.js.map",
+    "522.110600c2.chunk.js.map": "/rapaweb/static/js/522.110600c2.chunk.js.map",
+    "302.4b0e432c.chunk.js.map": "/rapaweb/static/js/302.4b0e432c.chunk.js.map",
+    "558.6cc992e0.chunk.js.map": "/rapaweb/static/js/558.6cc992e0.chunk.js.map",
+    "669.4b464c5e.chunk.js.map": "/rapaweb/static/js/669.4b464c5e.chunk.js.map",
+    "787.0c2bbb32.chunk.js.map": "/rapaweb/static/js/787.0c2bbb32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79574355.css",
+    "static/js/main.98ff3f05.js"
+  ]
+}
